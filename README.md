@@ -90,6 +90,9 @@
 
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashan-s1&layout=compact&theme=vision-friendly-dark)](https://github.com/jashan-s1/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=jashan-s1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+###
 
 ###
 <h3 align="left">Support:</h3>
